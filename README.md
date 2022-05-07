@@ -17,7 +17,7 @@ welcome to this org
 
 这是我：
 
-![image](../../../typora%E5%9B%BE%E5%83%8F/167257479-1e8222cc-9fac-4496-811b-489d29dc85f7.png)
+![image](./assets/my_photo.png)
 
 今年我毕业啦，有幸加入thoughtworks成为其中的一员！
 
@@ -25,24 +25,24 @@ welcome to this org
 
 这是我参与班级活动和团队聚会的照片：
 
-![image](../../../typora%E5%9B%BE%E5%83%8F/167257739-95a64c30-6eb5-4e81-b1f3-f24c49e7f4b0.png)
+![image](./assets/class_active.png)
 
-![image](../../../typora%E5%9B%BE%E5%83%8F/167257702-e24987d1-9bde-4602-8341-426827d4928a.png)
+![image](./assets/team_active.png)
 
 
 ## 我喜欢爬山、骑行等运动，到没去过的地方看看不一样的可能
 
 - 18年（稻城亚丁）
 
-![image](../../../typora%E5%9B%BE%E5%83%8F/167257670-299f9619-0764-421d-8bd2-57e754ad5d9b.png)
+![image](2018.png)
 
 - 19年（华山）
 
-![image](../../../typora%E5%9B%BE%E5%83%8F/167257768-8461df10-ff30-4add-8ea9-10e7934a43c3.png)
+![image](2019.png)
 
 （在山上看日落）
 
-![image](../../../typora%E5%9B%BE%E5%83%8F/167257757-b5cadb33-5f0b-49c7-a86c-ed69a3c255c4.png)
+![image](2019_sunset.png)
 
 
 - 20年（骑行100公里，看黄河）
