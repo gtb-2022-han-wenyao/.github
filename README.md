@@ -34,15 +34,15 @@ welcome to this org
 
 - 18年（稻城亚丁）
 
-![image](2018.png)
+![image](./assets/2018.png)
 
 - 19年（华山）
 
-![image](2019.png)
+![image](./assets/2019.png)
 
 （在山上看日落）
 
-![image](2019_sunset.png)
+![image](./assets/2019_sunset.png)
 
 
 - 20年（骑行100公里，看黄河）
