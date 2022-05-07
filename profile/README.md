@@ -30,7 +30,7 @@ welcome to this org
 ![image](https://user-images.githubusercontent.com/50917521/167257702-e24987d1-9bde-4602-8341-426827d4928a.png)
 
 
-## 我喜欢爬山、骑行等运动，到没去过的地方看看不一样可能
+## 我喜欢爬山、骑行等运动，到没去过的地方看看不一样的可能
 
 - 18年（稻城亚丁）
 
@@ -40,7 +40,7 @@ welcome to this org
 
 ![image](https://user-images.githubusercontent.com/50917521/167257768-8461df10-ff30-4add-8ea9-10e7934a43c3.png)
 
-（在山上看日落没有想象的美好emmm...）
+（在山上看日落）
 
 ![image](https://user-images.githubusercontent.com/50917521/167257757-b5cadb33-5f0b-49c7-a86c-ed69a3c255c4.png)
 
